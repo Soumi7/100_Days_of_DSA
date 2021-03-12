@@ -1,4 +1,5 @@
 import sys
+sys.setrecursionlimit(10**6)
 N = int(input())
 arr = list(map(int,input().split()))
          
