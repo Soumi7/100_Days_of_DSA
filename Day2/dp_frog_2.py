@@ -20,11 +20,12 @@ else:
     if dp[i]!=-1:
       return dp[i]
     left = abs(arr[i]-arr[i+1])+recur(i+1)
-    right = sys.maxsize
+    min_right = sys.maxsize
     for k in range(2,K+1):      
       if i+k<N:
-        right = abs(arr[i]-arr[i+k])+recur(i+k)      
-        dp[i] = min(left,right)
-    return min(left,right)
+        right1 = abs(arr[i]-arr[i+k])+recur(i+k)      
+        min_right = min(min_right,right1)
+    dp[i] = min(left,min_right)
+    return min(left,min_right)
       
   print(recur(0))
