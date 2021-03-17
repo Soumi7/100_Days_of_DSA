@@ -6,7 +6,7 @@ Day 1 :
 
 Day 2 :
 - https://leetcode.com/problems/3sum/
-- https://atcoder.jp/contests/dp/tasks/dp_b
+- https://atcoder.jp/contests/dp/tasks/dp_b So in atcoder if I need to tackle the tle, have to select language as PyPy3. :)
 
 Day 3 :
 - https://leetcode.com/problems/trapping-rain-water/
