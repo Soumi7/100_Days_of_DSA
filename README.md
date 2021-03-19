@@ -17,6 +17,6 @@ Day 4 :
   - Declaring like ```dp = [  [False]  *  (  (k//2)   +1  )  ]*(len(nums)+1)``` creates instances of the same intial list, so change in any of the indexes updated all the instances in other rows.
 
 Day 5 :
-- https://leetcode.com/problems/target-sum/ : Remember the check for (array_sum+diff) %2 ==1: return 0 as in that case no subset exists with that sum.
+- https://leetcode.com/problems/target-sum/ : Remember the check for ```(array_sum+diff) %2 ==1: return 0``` as in that case no subset exists with that sum.
        
 
