@@ -21,7 +21,7 @@ Day 5 :
 
 Day 6 :
 - https://leetcode.com/problems/coin-change/
-- https://leetcode.com/problems/longest-common-subsequence/
-- https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/
+- https://leetcode.com/problems/longest-common-subsequence/ (subsequence)
+- https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/ (substring)
        
 
