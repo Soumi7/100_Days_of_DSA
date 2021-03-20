@@ -21,5 +21,6 @@ Day 5 :
 
 Day 6 :
 - https://leetcode.com/problems/coin-change/
+- https://leetcode.com/problems/longest-common-subsequence/
        
 
