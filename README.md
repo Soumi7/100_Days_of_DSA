@@ -18,5 +18,8 @@ Day 4 :
 
 Day 5 :
 - https://leetcode.com/problems/target-sum/ : Remember the check for ```(array_sum+diff) %2 ==1: return 0``` as in that case no subset exists with that sum.
+
+Day 6 :
+- https://leetcode.com/problems/coin-change/
        
 
