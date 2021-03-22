@@ -26,3 +26,6 @@ Day 6 :
        
 Day 7 :
 - https://leetcode.com/problems/shortest-common-supersequence/
+- https://leetcode.com/problems/delete-operation-for-two-strings/
+
+
