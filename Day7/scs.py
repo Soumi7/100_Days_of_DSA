@@ -16,7 +16,7 @@ class Solution:
                     i = i-1
                     j = j-1
                 else:
-                    if dp[i-1][j]<dp[i][j-1]:
+                    if dp[i-1][j]>dp[i][j-1]:
                         i=i-1
                     else:
                         j=j-1
