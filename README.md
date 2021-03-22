@@ -24,4 +24,5 @@ Day 6 :
 - https://leetcode.com/problems/longest-common-subsequence/ (subsequence)
 - https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/ (substring)
        
-
+Day 7 :
+- https://leetcode.com/problems/shortest-common-supersequence/
