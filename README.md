@@ -30,3 +30,4 @@ Day 7 :
 
 Day 8 :
 - https://leetcode.com/problems/longest-palindromic-subsequence/
+- https://leetcode.com/problems/is-subsequence/
