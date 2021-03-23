@@ -28,4 +28,5 @@ Day 7 :
 - https://leetcode.com/problems/shortest-common-supersequence/
 - https://leetcode.com/problems/delete-operation-for-two-strings/
 
-
+Day 8 :
+- https://leetcode.com/problems/longest-palindromic-subsequence/
