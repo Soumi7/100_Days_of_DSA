@@ -8,25 +8,16 @@ class Solution:
                         dp[i][j] = 1+dp[i-1][j-1]
                     else:
                         dp[i][j] = max(dp[i-1][j],dp[i][j-1])
-            lcs=""         
-            while(i>0 and j>0):
-                if a[i-1]==b[j-1]:
-                    lcs=a[i-1]+lcs
-                    i-=1
-                    j-=1
-                else:
-                    if dp[i-1][j]<dp[i][j-1]:
-                        j-=1
-                    else:
-                        i-=1
-            return lcs
+            return dp[n][m]
         if s=="":
             return True
         if t=="":
             return False
-        lcs= lcs(s,t,len(s),len(t))
-        print(lcs)
-        if lcs==s:
+        n = len(s)
+        m = len(t)
+        lcs= lcs(s,t,n,m)
+        
+        if lcs==n:
             return True
         else:
             return False
