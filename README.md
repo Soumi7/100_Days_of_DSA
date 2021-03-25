@@ -35,3 +35,6 @@ Day 8 :
 
 Day9 :
 - https://leetcode.com/problems/palindrome-partitioning-ii/
+
+Day 10 :
+- https://leetcode.com/problems/longest-palindromic-substring/
