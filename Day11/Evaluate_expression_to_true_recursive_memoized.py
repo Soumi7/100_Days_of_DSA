@@ -21,7 +21,7 @@ class Solution:
                     else:
                         return 0
             ans = 0
-            key = str(i) +str(j)+str(isTrue)
+            key = str(i)+" " +str(j)+" "+str(isTrue)
             if key in dic:
                 return dic[key]
             for k in range(i+1,j,2):
