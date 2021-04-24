@@ -43,4 +43,5 @@ Day 11 :
 - https://www.interviewbit.com/problems/evaluate-expression-to-true/
 
 Day 12 :
-- https://leetcode.com/problems/scramble-string/
+- https://leetcode.com/problems/scramble-string/ - Point to remember, in leetcode, if I shouldnt use the defined function as recursion. Better to use another util function for recursion. Why? Cuz we cant define a global dictionary or list for memoization! Keep in mind!
+
