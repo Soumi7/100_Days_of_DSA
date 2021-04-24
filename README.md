@@ -41,3 +41,6 @@ Day 10 :
 
 Day 11 :
 - https://www.interviewbit.com/problems/evaluate-expression-to-true/
+
+Day 12 :
+- https://leetcode.com/problems/scramble-string/
