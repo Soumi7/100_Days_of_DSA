@@ -45,3 +45,10 @@ Day 11 :
 Day 12 :
 - https://leetcode.com/problems/scramble-string/ - Point to remember, in leetcode, if I shouldnt use the defined function as recursion. Better to use another util function for recursion. Why? Cuz we cant define a global dictionary or list for memoization! Keep in mind!
 
+Day 13 :
+- https://leetcode.com/problems/super-egg-drop/
+
+Day 14 :
+- https://leetcode.com/problems/diameter-of-binary-tree/
+- 
+
